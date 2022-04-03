@@ -9,6 +9,7 @@
 ## Usage
 
 Set the duration in seconds with `/timer <duration>`
+
 Turn the timer off with `/timer off`
 
 ## Credits

@@ -8,9 +8,13 @@
 
 ## Usage
 
-Set the duration in seconds with `/timer <duration>`
+Set the duration in seconds with `/timer <start time> <total time>`
 
 Turn the timer off with `/timer off`
+
+Add a description to the timer with `/timer <start time> <total time> <description>`
+
+Example: `/timer 30 30 Thrust`
 
 ## Credits
 
